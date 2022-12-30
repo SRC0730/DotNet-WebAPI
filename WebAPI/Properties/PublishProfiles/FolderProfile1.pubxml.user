@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-12-29T16:41:17.1975182Z;True|2022-12-30T00:39:36.5259264+08:00;True|2022-12-30T00:34:30.2488972+08:00;True|2022-12-30T00:33:48.9132380+08:00;True|2022-12-29T23:55:05.1815116+08:00;True|2022-12-29T23:15:02.7532085+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

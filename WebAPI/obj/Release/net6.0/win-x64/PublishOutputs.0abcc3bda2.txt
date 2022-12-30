@@ -1,0 +1,11 @@
+D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\obj\Release\net6.0\win-x64\PubTmp\Out\WebAPI.exe
+D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\obj\Release\net6.0\win-x64\PubTmp\Out\WebAPI.dll
+D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\obj\Release\net6.0\win-x64\PubTmp\Out\WebAPI.deps.json
+D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\obj\Release\net6.0\win-x64\PubTmp\Out\WebAPI.runtimeconfig.json
+D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\obj\Release\net6.0\win-x64\PubTmp\Out\WebAPI.pdb
+D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_SRC\SRCxWorkShop\SRC_Project\Backend\WebAPI\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
